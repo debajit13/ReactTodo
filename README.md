@@ -1,6 +1,38 @@
-# Getting Started with Create React App
+<p align="center">
+  <img style="border-width: 0" width="400" height="400" src="./public/logoTodo.png" alt="Todo App logo">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Todo App
+
+A website which helps you to add📝 your daily todos
+
+# Motivation
+
+Create this website to apply basic React concepts and help others to start their journey in ReactJS.
+
+# Screenshots
+
+<img src="public/screenshot .png">
+
+# Tech/ Framework Used
+
+**Built with**
+
+1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+2. [ReactJS](https://reactjs.org/)
+
+# Code Style
+
+You can follow the [React style guides](https://github.com/airbnb/javascript/tree/master/react) by Airbnb
+
+# How to contribute?
+
+1. Fork the project and clone it.
+1. Enter into the project and create a different branch.
+1. Run 'npm install' to install all the packages.
+1. Run 'npm start' to run the app.
+1. Add your code to the project.
+1. Create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## Available Scripts
 
@@ -39,32 +71,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">Made with :heart: and :coffee: by Debajit Mallick</p>

@@ -42,17 +42,12 @@ const TodoForm = () => {
             type="text"
             name="todo"
             id="todo"
-            placeholder="Your next Todo"
+            placeholder="Enter ToDo"
             value={todoString}
             onChange={(e) => setTodoString(e.target.value)}
           />
           <InputGroupAddon addonType="prepend">
-            <Button
-              color="warning"
-              //TODO: onclick
-            >
-              ADD
-            </Button>
+            <Button color="secondary">ADD</Button>
           </InputGroupAddon>
         </InputGroup>
       </FormGroup>

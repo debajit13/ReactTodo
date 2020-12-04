@@ -13,7 +13,7 @@ const App = () => {
   return (
     <TodoContext.Provider value={{ todos, dispatch }}>
       <Container fluid>
-        <h1>Todo App with Context API</h1>
+        <h1>Todo App</h1>
         <Todos />
         <TodoForm />
       </Container>
