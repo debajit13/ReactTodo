@@ -4,35 +4,29 @@
 
 # Todo App
 
-A website which helps you to add📝 your daily todos
+A website which helps you to manage📝 your daily todos
 
-# Motivation
+---
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/debajit13/ReactTodo/graphs/commit-activity) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://debajit13.github.io/ReactTodo/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/debajit13/ReactTodo/issues) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+## Motivation
 
 Create this website to apply basic React concepts and help others to start their journey in ReactJS.
 
-# Screenshots
+## Screenshots
 
 <img src="public/screenshot .png">
 
-# Tech/ Framework Used
+## Tech/ Framework Used
 
 **Built with**
 
 1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 2. [ReactJS](https://reactjs.org/)
 
-# Code Style
-
-You can follow the [React style guides](https://github.com/airbnb/javascript/tree/master/react) by Airbnb
-
-# How to contribute?
-
-1. Fork the project and clone it.
-1. Enter into the project and create a different branch.
-1. Run 'npm install' to install all the packages.
-1. Run 'npm start' to run the app.
-1. Add your code to the project.
-1. Create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+Want To Be a Contributor?
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 ## Available Scripts
 
