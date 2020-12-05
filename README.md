@@ -25,7 +25,8 @@ Create this website to apply basic React concepts and help others to start their
 1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 2. [ReactJS](https://reactjs.org/)
 
-Want To Be a Contributor?
+## Want To Be a Contributor?
+
 Read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 ## Available Scripts
